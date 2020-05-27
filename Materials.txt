@@ -1,0 +1,6 @@
+Arduino Leonardo
+One LED
+One photoresistor
+220 Ohm Resistor (the one closer to the light)
+10k Ohm Resistor (the one closer to the photoresistor)
+5 x wires
